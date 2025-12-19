@@ -1,4 +1,4 @@
-# AI Loan Decision Analysis (Power BI)
+# AI Loan Decision Audit & Operations Intelligence Platform (Power BI)
 
 ## 📌 Project Overview
 This project presents an end-to-end **Power BI dashboard** analyzing AI-driven loan approval decisions.  
