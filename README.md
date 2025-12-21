@@ -88,12 +88,11 @@ This documentation covers:
 ---
 
 ## 📂 Repository Contents
-AI_Loan_Decision_Analysis.pbix → Interactive Power BI dashboard
-AI_Loan_Decision_Analysis.pdf → Exported dashboard report
-screenshots/ → Dashboard preview images
-docs/metric_design.md → Metric definitions & analytical logic
-README.md → Project documentation
-
+AI_Loan_Decision_Analysis.pbix   → Interactive Power BI dashboard
+AI_Loan_Decision_Analysis.pdf   → Exported dashboard report
+screenshots/                    → Dashboard preview images
+docs/metric_design.md           → Metric definitions & analytical logic
+README.md                       → Project documentation
 
 ---
 
